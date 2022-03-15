@@ -1,0 +1,65 @@
+@media only screen and (min-width:800px) and (max-width:2000px){
+
+          *{
+              padding:0px;
+              margin:0px;
+          }
+
+}
+
+@media only screen and (min-width:300px) and (max-width:414px){
+
+    *{
+        padding:0px;
+        margin:0px;
+    }
+
+    .bigv{
+        padding:20px;
+    }
+
+    .container{
+      
+        margin:100px auto;
+        padding:15px;
+        border-left:5px solid rgb(5, 233, 5)  ;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+   
+    }
+
+    .container header{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 20px;  
+           
+    }
+
+    .container .p{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:17px;
+        margin-top:10px;
+        margin-top:40px;
+    }
+
+    .subcont {
+   
+         
+          margin-top:5px;
+          padding-left:30px; 
+
+    }
+
+    .subcont p{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:17px;
+    }
+
+
+
+
+
+}
+
+
